@@ -1,2 +1,2 @@
-# personalwebsite
-With the help of tailwindcss
+# My personal website
+With the help of Bootstrap 5
