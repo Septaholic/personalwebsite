@@ -1,2 +1,2 @@
 # My personal website
-With the help of Bootstrap 5
+With the help of daisyUI
